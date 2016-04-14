@@ -1,0 +1,7 @@
+http://sourceforge.net/projects/gitextensions/files/latest/download?source=files
+
+https://www.microsoft.com/en-us/download/details.aspx?id=48729
+
+
+https://github.com/dahlbyk/posh-git/releases
+
